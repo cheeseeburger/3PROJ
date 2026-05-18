@@ -80,4 +80,4 @@ with col2:
     st.markdown("### 🔍 Real-Time Active Data Stream")
     st.dataframe(processed_df, use_container_width=True)
 
-st.success("Data pipeline is executing successfully in real-time environment.")
+st.success("Data pipeline is executing successfully in real-time environment.") 
